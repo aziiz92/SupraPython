@@ -1,0 +1,99 @@
+histogram_config:
+  - part_number: 1131412
+    inspection_plans:
+      - 1131412-P1C1:
+          - P1C1 (10) 5,520 =:
+              - Value
+          - P1C1 (43) 6,200bf =:
+              - Value
+          - P1C1 (43) 6,200hf =:
+              - Value
+          - P1C1 (13) 5,800 =:
+              - Value
+          - P1C1 (29) 3.45 =:
+              - Value
+          - P1C1 (41) 0,870 =:
+              - Value
+          - P1C1 (1) 7,170 =:
+              - Radius_Opt
+          - P1C1 (3) 1,950 =:
+              - Radius_Opt
+      - 1131412-P1C2:
+          - P1C2 (1) 7,170 =:
+              - Radius_Opt
+          - P1C2 (3) 1,950 =:
+              - Radius_Opt
+          - P1C2 (10) 5,520 =:
+              - Value
+          - P1C2 (43) 6,200bf:
+              - Value
+          - P1C2 (43) 6,200hf:
+              - Value
+          - P1C2 (13) 5,800 =:
+              - Value
+          - "P1C2 (29) 3,450 = ":
+              - Value
+          - P1C2 (41) 0,870 =:
+              - Value
+  - part_number: 1131405
+    inspection_plans:
+      - 1131405-P1C1:
+          - P1C1 (10) 4.220 =:
+            - Value
+          - P1C1 (1) 6,170bf =:
+            - Value
+          - P1C1 (1) 6,170hf =:
+            - Value
+          - P1C1 (13) 5,800 =:
+            - Value
+          - P1C1 6,170 =:
+            - Radius_Opt
+          - P1C1 2,000 =:
+            - Radius_Opt
+      - 1131405-P1C2:
+          - P1C2 (1) 6,170 =:
+            - Radius_Opt
+          - P1C2 (3) 2.000 =:
+            - Radius_Opt
+          - P1C2 4,220 =:
+            - Value
+          - P1C2 6,170bf:
+            - Value
+          - P1C2 6,170hf:
+            - Value
+          - P1C2 5,800 =:
+            - Value
+  - part_number: 1132913
+    inspection_plans:
+      - 1132913-P1C1:
+          - P1C1 3,550 =:
+            - Value
+          - P1C1 7,150 =:
+            - Value
+          - P1C1 7,310 =:
+            - Radius_Opt
+          - P1C1 2,400 =:
+            - Radius_Opt
+      - 1132913-P1C2:
+          - P1C2 7,310 =:
+            - Radius_Opt
+          - P1C2 2,400 =:
+            - Radius_Opt
+          - P1C2 3,550 =:
+            - Value
+          - P1C2 7,150 =:
+            - Value
+  - part_number: 1134101
+    inspection_plans:
+      - 1134101-P1C1:
+          - P1C1 (10) 3,900 =:
+            - Value
+          - P1C1 (1) 6,535fh =:
+            - Value
+          - P1C1 (1) 6,535fb =:
+            - Value
+      - 1134101-P1C2:
+          - P1C2 (1) 6,535 =:
+            - Radius_Opt
+          - P1C2 (3) 4,300 =:
+            - Radius_Opt

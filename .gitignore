@@ -1,0 +1,7 @@
+/.idea/
+/build/*
+/dist/*
+/visitri-import.spec
+
+__pycache__/
+/visitri-histogram.spec

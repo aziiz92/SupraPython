@@ -1,0 +1,4 @@
+[submodule "shared"]
+	path = shared
+	url = git@bitbucket.org:iotific/visitri-shared.git
+	branch = main
